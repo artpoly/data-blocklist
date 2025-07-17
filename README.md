@@ -13,10 +13,16 @@
   [:link:](https://zwgk.mct.gov.cn/zfxxgkml/cyfz/202012/t20201206_918533.html)
 
 - 2015/8/12 文化部网络音乐产品黑名单
-
-  - http://newyork.china-consulate.gov.cn/chn/whjl/zgwhxx1/202505/t20250516_11626293.htm
-  - https://www.cac.gov.cn/2015-08/11/c_1116207624.htm
+  - [:link:](http://newyork.china-consulate.gov.cn/chn/whjl/zgwhxx1/202505/t20250516_11626293.htm)
+  - [:link:](https://www.cac.gov.cn/2015-08/11/c_1116207624.htm)
 
 - 文化部互联网上网服务营业场所黑名单
-  - 第一批 19 家（2015/11） https://www.gov.cn/xinwen/2015-11/04/content_5004280.htm
-  - 第二批 34 家（2017/11） https://credit.shandong.gov.cn/657/63204.html
+  - 第一批 19 家（2015/11） [:link:](https://www.gov.cn/xinwen/2015-11/04/content_5004280.htm)
+  - 第二批 34 家（2017/11） [:link:](https://credit.shandong.gov.cn/657/63204.html)
+
+- 文化部违规网络音乐产品
+  - 第一批 （2011-01-12） [:link:](https://zwgk.mct.gov.cn/zfxxgkml/whsczhzf/202012/t20201206_918361.html)
+  - 第二批 （2011-03-17） [:link:](https://www.fymate.net/html/text/chl/1473/147310.html)
+  - 第三批 （2011-08-09） [:link:](https://zwgk.mct.gov.cn/zfxxgkml/scgl/202012/t20201206_918184.html)
+
+- 文化部公布第X批违法违规互联网文化活动查处结果：略
